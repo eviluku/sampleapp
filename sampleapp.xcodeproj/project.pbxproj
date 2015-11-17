@@ -417,6 +417,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.greenhouse.sampleapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -428,6 +429,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.greenhouse.sampleapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -498,6 +500,7 @@
 				05AF57B81BFB1BF4000A4877 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05AF57B91BFB1BF4000A4877 /* Build configuration list for PBXNativeTarget "sampleappTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +509,7 @@
 				05AF57BB1BFB1BF4000A4877 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05AF57BC1BFB1BF4000A4877 /* Build configuration list for PBXNativeTarget "sampleappUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +518,7 @@
 				05AF57BE1BFB1BF4000A4877 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
